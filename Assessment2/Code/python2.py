@@ -203,7 +203,8 @@ def eight(input,  a):
         input.replace(input[i], '', a)
     return input
 
-    #print(eight('Hello'))
+    
+    #prin
 
     # <QUESTION 9>
 
